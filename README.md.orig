@@ -1,0 +1,20 @@
+# Datasets
+
+### Datasets collected from R packages
+ - mlbench 
+ - kernlab
+ - klaR
+ - car
+ - reshape2
+ - hflights
+ - ISLR
+<<<<<<< HEAD
+ 
+### The original source repositories are:
+ - ftp://ftp.ics.uci.edu/pub/machine-learning-databases
+ - http://www.ics.uci.edu/~mlearn/MLRepository.html
+ - http://kdd.ics.uci.edu
+ - http://www.liacs.nl/~putten/library/cc2000/ (ticdata)
+
+=======
+>>>>>>> f35758411f0e06de972c43898b207fa014775a2b
