@@ -23,11 +23,11 @@ df = pd.read_csv("https://raw.githubusercontent.com/mesfind/datasets/master/heig
  3) Copy the URL from the browser
  4) Paste the URL in your code (see below) 
  
-In this code example we use the URL from the `height`dataset (`https://raw.githubusercontent.com/kirenz/datasets/master/height.csv`) and import the data from GitHub with the package `readr`: 
+In this code example we use the URL from the `height`dataset (`https://raw.githubusercontent.com/mesfind/datasets/master/height.csv`) and import the data from GitHub with the package `readr`: 
 
 ```{r}
 library(readr)
-data <- read_csv("https://raw.githubusercontent.com/kirenz/datasets/master/height.csv")
+data <- read_csv("https://raw.githubusercontent.com/mesfind/datasets/master/height.csv")
 ```
 
 ## List of further data resources
