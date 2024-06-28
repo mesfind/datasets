@@ -30,6 +30,12 @@ library(readr)
 data <- read_csv("https://raw.githubusercontent.com/mesfind/datasets/master/height.csv")
 ```
 
+```{python}
+import pandas as pd
+path = 'https://raw.githubusercontent.com/mesfind/datasets/master/banking.csv'
+df = pd.read_csv(path)
+```
+
 ## List of further data resources
 
 - [Awesome public datasets](https://github.com/awesomedata/awesome-public-datasets)
