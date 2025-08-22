@@ -1,0 +1,6 @@
+Dataset: day2_band_gap
+Description: Band gap prediction for neural networks
+Use Case: Day 2 - Deep Learning
+Target: gap pbe
+Samples: 3000
+Features: 2

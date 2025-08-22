@@ -1,0 +1,6 @@
+Dataset: day1_formation_energy
+Description: Formation energy prediction with composition features
+Use Case: Day 1 - Classical ML algorithms
+Target: e_form_per_atom
+Samples: 5000
+Features: 2

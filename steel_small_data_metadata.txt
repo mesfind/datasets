@@ -1,0 +1,6 @@
+Dataset: steel_small_data
+Description: Steel yield strength - small data challenge
+Use Case: Small data techniques
+Target: yield strength
+Samples: 312
+Features: 2
